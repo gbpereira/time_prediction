@@ -1,0 +1,41 @@
+# Dicionário de dados
+
+- quantity
+  - Descrição: quantidade de itens no pedido;
+  - Tipo: numérico;
+  - Intervalo de valores: 1 a 6;
+---
+- holiday
+  - Descrição: identifica se é feriado na localidade da revenda;
+  - Tipo: booleano;
+  - Intervalo de valores: verdadeiro e falso;
+---
+- time Elapsed
+  - Descrição: tempo decorrido entre a confirmação e entrega do pedido em minutos;
+  - Tipo: numérico;
+  - Intervalo de valores: 4.4 a 133.2;
+---
+- ongoing orders
+  - Descrição: quantidade de pedidos em andamento para a revend;
+  - Tipo: numérico;
+  - Intervalo de valores: 0 a 11;
+---
+- waze avg time
+  - Descrição: tempo médio de deslocamento entre a revenda e o endereço do cliente em minutos;
+  - Tipo: numérico;
+  - Intervalo de valores: 1.98 a 46.2;
+---
+- waze avg distance
+  - Descrição: distância média de deslocamento entre a revenda e o endereço do cliente em quilômetros;
+  - Tipo: numérico;
+  - Intervalo de valores: 0.7 a 25;
+---
+- datetime
+  - Descrição: data e hora de criação do pedido;
+  - Tipo: data e hora;
+  - Intervalo de valores: 01/09/2022 a 27/10/2023;
+---
+- reseller
+  - Descrição: identificador da revenda;
+  - Tipo: categórico;
+  - Intervalo de valores: A a F;
