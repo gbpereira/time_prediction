@@ -1,2 +1,3 @@
 # time_prediction
-time prediction with machine learning
+
+Plataformas de serviços de entrega, ou plataformas de delivery, desempenham um papel cada vez mais importante no consumo de diferentes produtos e serviços. Este projeto emprega dados de uma plataforma de venda e distribuição de gás de cozinha a consumidores finais para construir um modelo de aprendizado de máquina de previsão de tempos das entregas para uso na gestão dos serviços. Diferentes modelos de aprendizado de máquina são aplicados e comparados, e a análise permite identificar os principais ofensores para um melhor controle dos tempos de entrega e a tomada de decisões de negócio na operação da plataforma.
